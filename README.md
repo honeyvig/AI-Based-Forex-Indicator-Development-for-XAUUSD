@@ -1,4 +1,4 @@
-# I-Based-Forex-Indicator-Development-for-XAUUSD
+# AI-Based-Forex-Indicator-Development-for-XAUUSD
 create an AI-driven Forex indicator specifically for the XAUUSD (Gold/Dollar) exchange. The indicator should analyze and interpret the trend of longer candlesticks in both bullish and bearish directions, providing clear insights for trading decisions. The ideal candidate will have a strong understanding of Forex trading strategies and proficiency in machine learning or AI implementation. If you are passionate about financial technologies and have a proven track record in developing trading indicators, we would love to hear from you.
 ===========
 Creating an AI-driven Forex indicator for the XAU/USD (Gold/Dollar) exchange can be an excellent way to predict and analyze market movements, providing insights to assist traders. In this example, we will develop a simple machine learning-based approach using Python, combining historical price data with technical analysis to build an indicator for predicting bullish or bearish trends.
